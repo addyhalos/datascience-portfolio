@@ -16,7 +16,7 @@ My last full time job was with Zoom2u, an ASX-listed company based in Sydney, Au
 
 Today, I am freelancing, continually expanding my knowledge in all aspects of data science.
 
-You may access my CV [here]()
+You may access my CV [here](datascience-portfolio/CV_ADPH.pdf)
 
 I made this repository to give you a taste of what I can do. Feel free to reach out if you have any clarifications!
 
