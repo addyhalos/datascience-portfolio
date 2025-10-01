@@ -16,7 +16,7 @@ My last full time job was with Zoom2u, an ASX-listed company based in Sydney, Au
 
 Today, I am freelancing, continually expanding my knowledge in all aspects of data science.
 
-You may access my CV [here](datascience-portfolio/CV_ADPH.pdf)
+You may access my CV [here](CV_ADPH.pdf)
 
 I made this repository to give you a taste of what I can do. Feel free to reach out if you have any clarifications!
 
@@ -25,11 +25,11 @@ I made this repository to give you a taste of what I can do. Feel free to reach 
 
 * [About](#about)
 
-* [Portfolio Projects](datascience-portfolio)
+* Portfolio Projects
 
-* [Data Engineering](datascience-portfolio/data_engineering)
+* [Data Engineering](data_engineering)
 
-  - [Emailed Report - FPA Monthly Registered Biofertilizers](datascience-portfolio/data_engineering/FPA_Monthly_Registered_Biofertilizer_Process.ipynb)
+  - [Emailed Report - FPA Monthly Registered Biofertilizers](data_engineering/FPA_Monthly_Registered_Biofertilizer_Process.ipynb)
 
 * [Data Analytics]()
 
