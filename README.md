@@ -8,33 +8,43 @@ Before anything else, I'd like to thank you for your interest in looking at my p
 
 Now, I'd like to give you an introduction to my background in data science. 
 
-I have an extensive background in the ecommerce industry. I was a pioneer business intelligence team in Shopee Philippines, now an industry giant in our country today. I eventually moved on to Lalafood, a food delivery sister company of the well-known on-demand logistics company Lalamove. My last full time job was with Zoom2u, an ASX-listed on-demand logistics provider based in Sydney, Australia.
+I have an extensive background in the ecommerce industry. I was a pioneer business intelligence team in Shopee Philippines, now an ecommerce industry giant in our country today. I eventually moved on to Lalafood, a food delivery sister company of the well-known on-demand logistics company Lalamove. My last full time job was with Zoom2u, an ASX-listed on-demand logistics provider based in Sydney, Australia.
 
 Today, I am freelancing, continually expanding my knowledge in all aspects of data science.
 
-During my time in these companies, I've developed my skills deeply in the realm of data analytics and engineering. I had front line experience in each company, working and learning largely on my own. I was given an opportunity to work at a special project that eventually grew into a fintech company known as SeaMoney, established strategic plans to smoothen driver onboarding, optimize order matching with drivers, and held my own as the only data professional handling all regular reporting, analytics, and engineering at my last company.
+During my time in these companies, I've developed my skills deeply in the realm of data analytics and engineering. I had front line experience in each company, working and learning largely on my own. I was given an opportunity to work at a special project that eventually grew into a fintech company known as SeaMoney, established strategic plans to smoothen driver onboarding, optimize order matching with drivers, and held my own as the only data professional handling all regular reporting, analytics, and engineering at my last company. In my career, I've never backed down from a challenge, given that I'm always pushed to my boundaries in areas where my past companies have never been before.
 
-The fact that I am a graduate of BS Agribusiness Management while finding success in data science says a lot about how fast I can learn to do any tasks needed of me.
+Moreover, I would like to introduce the fact that I am a graduate of BS Agribusiness Management while finding success in data science. I believe that this should say a lot about how fast I can rise to the challenge of learning new skills as demanded by any task given to me.
 
 I made this repository to give you a taste of what I can do. Feel free to  browse, and reach out if you have any clarifications!
 
 You may access my CV [here](CV_ADPH.pdf)
 
-## Contact Details
+### Core Skills
+ * Data Analytics
+ * Strategy
+ * Data Visualization
+ * SQL
+ * Python
+ * Javascript
+ * ETL
+
+### Contact Details
 
 1. email: adrieldphalos@gmail.com
 2. linkedin: https://www.linkedin.com/in/addy-halos/
-   
 
+   
 ## Table of Contents
 
 * [About](#about)
 * [Contact Details](#contact-details)
 * Portfolio Projects
 * [Data Engineering](data_engineering)
-  - [Emailed Report - FPA Monthly Registered Biofertilizers](data_engineering/FPA_Monthly_Registered_Biofertilizer_Process.ipynb)
+  - [Emailed Report - FPA Monthly Registered Biofertilizers](data_engineering/FPA_Monthly_Registered_Biofertilizer_Process.ipynb) (javascript, automation)
 * [Data Analytics]()
-  - [Data Visualization]()
+  - Data Visualization
+    +[Netflix Dashboard](https://lookerstudio.google.com/u/0/reporting/9a6ae993-fbbc-46e3-bca9-bc8e11692ad5/page/uP4YD) (data visualization, Looker Studio)
   - [Data Exploration]()
 
 
