@@ -6,37 +6,36 @@ Hello, it's great to find you here! I am Addy, and it is very nice to meet you.
 
 Before anything else, I'd like to thank you for your interest in looking at my page.
 
-I'd like to give you an introduction to my background in data science. 
+Now, I'd like to give you an introduction to my background in data science. 
 
-I have an extensive background in the ecommerce industry. I started out as a data analyst in the pioneer business intelligence team of Shopee Philippines. I saw the company grow from a one floor office to a multi-building company in a span of 2 years. During my time there, I was the first person assigned to work on adhoc reports and design new regular reports coming in from all departments of the company. As it grew, I took up supporting the marketing team while being part of the digital goods and vouchers category, which grew into a fintech company known today as SEAMoney.
-
-I then moved on to LalaFood, then a sister company of Lalamove Philippines, which is still one of the top on-demand logistics company in the Philippines. There, I supported the products team, giving strategic insights for driving driver onboarding optimization and a plan to optimize driver hotspot creation for optimal order matching.
-
-My last full time job was with Zoom2u, an ASX-listed company based in Sydney, Australia. Formally, I was their data analyst, but as the only data team professional in the company, I managed my own end-to-end reporting processes. This required setting up several ETL processes from third party tools used by the different teams, requiring knowledge of basic data engineering skills.
+I have an extensive background in the ecommerce industry. I was a pioneer business intelligence team in Shopee Philippines, now an industry giant in our country today. I eventually moved on to Lalafood, a food delivery sister company of the well-known on-demand logistics company Lalamove. My last full time job was with Zoom2u, an ASX-listed on-demand logistics provider based in Sydney, Australia.
 
 Today, I am freelancing, continually expanding my knowledge in all aspects of data science.
 
+During my time in these companies, I've developed my skills deeply in the realm of data analytics and engineering. I had front line experience in each company, working and learning largely on my own. I was given an opportunity to work at a special project that eventually grew into a fintech company known as SeaMoney, established strategic plans to smoothen driver onboarding, optimize order matching with drivers, and held my own as the only data professional handling all regular reporting, analytics, and engineering at my last company.
+
+The fact that I am a graduate of BS Agribusiness Management while finding success in data science says a lot about how fast I can learn to do any tasks needed of me.
+
+I made this repository to give you a taste of what I can do. Feel free to  browse, and reach out if you have any clarifications!
+
 You may access my CV [here](CV_ADPH.pdf)
 
-I made this repository to give you a taste of what I can do. Feel free to reach out if you have any clarifications!
+## Contact Details
 
+1. email: adrieldphalos@gmail.com
+2. linkedin: https://www.linkedin.com/in/addy-halos/
+   
 
 ## Table of Contents
 
 * [About](#about)
-
+* [Contact Details](#contact-details)
 * Portfolio Projects
-
 * [Data Engineering](data_engineering)
-
   - [Emailed Report - FPA Monthly Registered Biofertilizers](data_engineering/FPA_Monthly_Registered_Biofertilizer_Process.ipynb)
-
 * [Data Analytics]()
-
   - [Data Visualization]()
-    
   - [Data Exploration]()
-  
 
 
 
