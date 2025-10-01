@@ -23,17 +23,20 @@ I made this repository to give you a taste of what I can do. Feel free to reach 
 
 ## Table of Contents
 
-[About](##About)
+* [About](#about)
 
-[## Portfolio Projects]()
+* [Portfolio Projects](datascience-portfolio)
 
-[* Data Analytics]()
-  [- Data Visualization]()
-    [+ Netflix Report]()
-  [- Data Exploration]()
-    [+]()
-[* Data Engineering]()
-  [* Monthly Registered Competitors Update]()
+* [Data Engineering](datascience-portfolio/data_engineering)
+
+  - [Emailed Report - FPA Monthly Registered Biofertilizers](datascience-portfolio/data_engineering/FPA_Monthly_Registered_Biofertilizer_Process.ipynb)
+
+* [Data Analytics]()
+
+  - [Data Visualization]()
+    
+  - [Data Exploration]()
+  
 
 
 
