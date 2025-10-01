@@ -28,11 +28,12 @@ You may access my CV [here](CV_ADPH.pdf)
  * Python
  * Javascript
  * ETL
+ * Cloud Platform (AWS, Azure, GCP)
 
 ### Contact Details
 
 1. email: adrieldphalos@gmail.com
-2. linkedin: https://www.linkedin.com/in/addy-halos/
+2. [linkedin](https://www.linkedin.com/in/addy-halos/)
 
    
 ## Table of Contents
@@ -48,6 +49,11 @@ You may access my CV [here](CV_ADPH.pdf)
   - [Data Exploration]()
 
 
+## Portfolio Projects
+
+### Data Engineering
+
+### Data Analytics
 
 PORTFOLIO GUIDE
 Tech Store Sales Analysis
