@@ -28,7 +28,7 @@ You may access my CV [here](CV_ADPH.pdf)
  * Python
  * Javascript
  * ETL
- * Cloud Platform (AWS, Azure, GCP)
+ * Cloud Platform (AWS, Azure, GCP, etc.)
 
 ### Contact Details
 
