@@ -45,7 +45,7 @@ You may access my CV [here](CV_ADPH.pdf)
   - [Emailed Report - FPA Monthly Registered Biofertilizers](data_engineering/FPA_Monthly_Registered_Biofertilizer_Process.ipynb) (javascript, automation)
 * [Data Analytics]()
   - Data Visualization
-    +[Netflix Dashboard](https://lookerstudio.google.com/u/0/reporting/9a6ae993-fbbc-46e3-bca9-bc8e11692ad5/page/uP4YD) (data visualization, Looker Studio)
+    + [Netflix Dashboard](https://lookerstudio.google.com/u/0/reporting/9a6ae993-fbbc-46e3-bca9-bc8e11692ad5/page/uP4YD) (data visualization, Looker Studio)
   - [Data Exploration]()
 
 
