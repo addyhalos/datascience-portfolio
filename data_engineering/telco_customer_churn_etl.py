@@ -1,5 +1,5 @@
 """
-curl -L -o ~/Downloads/customer-churn-dataset.zip\
+curl -L -o ~/Downloads/customer-churn-dataset.zip
   https://www.kaggle.com/api/v1/datasets/download/mubeenshehzadi/customer-churn-dataset
 """
 
@@ -55,5 +55,35 @@ with zipfile.ZipFile(zip_bytes) as z:
     with z.open(chosen) as csvfile:
         df = pd.read_csv(csvfile)
 
+#print(df)
 
-print(df)
+conn = sql.connect('data.db')
+
+df.to_sql('customer_churn', conn,if_exists='replace',index=False)
+# Run SQL and get result as DataFrame
+
+
+sql_query = """
+SELECT
+churn
+,gender
+,SeniorCitizen
+,Partner
+,Dependents
+,Contract
+,PaperlessBilling
+,PaymentMethod
+,COUNT(DISTINCT CustomerID)
+
+FROM customer_churn
+GROUP BY 1,2,3,4,5,6,7,8
+;
+"""
+
+
+results_df = pd.read_sql_query(sql_query, conn)
+
+# Display results
+print(results_df)
+
+conn.close
