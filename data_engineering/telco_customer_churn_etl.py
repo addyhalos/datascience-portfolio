@@ -11,7 +11,7 @@ import zipfile, io
 from pathlib import Path
 import json
 
-path = Path("/Users/addyhalos/Documents/secrets/kaggle.json")
+path = Path(r"/Users/addyhalos/Documents/secrets/kaggle.json")
 url = "https://www.kaggle.com/api/v1/datasets/download/mubeenshehzadi/customer-churn-dataset"
 
 # retrieve credentials from kaggle.json
